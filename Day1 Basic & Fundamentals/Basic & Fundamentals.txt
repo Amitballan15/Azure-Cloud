@@ -1,0 +1,100 @@
+1. What is Cloud Computing?
+Cloud computing refers to the delivery of computing services—such as servers, storage, databases, networking, software, analytics, and intelligence—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
+
+Instead of owning physical hardware or data centers, users can rent access to anything from applications to storage from a cloud provider like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP).
+
+2. Why Do We Need Cloud Computing?
+Here are the key reasons why cloud computing is important and widely used:
+Cost Efficiency:No need to buy expensive hardware or software.
+Pay only for what you use ("pay-as-you-go" model).
+Scalability:Easily scale resources up or down depending on demand (e.g., more servers during peak times).
+Accessibility :Access your data and applications from anywhere in the world, using just an internet connection.
+Reliability:Most cloud providers offer backup, disaster recovery, and failover options, ensuring higher uptime.
+Automatic Updates:Cloud systems automatically get the latest software updates, including security patches.
+Security:Leading providers invest heavily in securing data and offer tools like encryption, identity management, and access control.
+Collaboration:Multiple users can work on the same files and applications in real time, improving teamwork and productivity.
+
+3 Cloud Partner 
+Rank	Provider	Share	
+1	AWS	        30–31%
+2	Microsoft Azure	~22–23%	Strong enterprise & hybrid presence
+3	Google Cloud	10–12%	Gaining momentum via AI/ML services
+4	Alibaba Cloud	~4%	Dominant in Asia-Pacific
+5	Oracle Cloud	~3–4%	Growing in enterprise DB workloads
+6	IBM Cloud	~2–5%	Strong in regulated sectors
+7	Tencent Cloud	~2%	Focused on gaming/media, expanding globally
+8	Huawei Cloud	~2%	Growing in Asia, MEA; faces sanctions
+…	Others (Salesforce, SAP, VMware, etc.)	~1–3% each	Niche and SaaS platforms
+
+4 Cloud Services by Type
+IaaS (Infrastructure as a Service): IaaS (Infrastructure as a Service) is a cloud computing model where you rent virtualized computing resources—like servers, storage, and networking—over the internet. It gives you full control over the infrastructure without the cost and complexity of managing physical servers. example -Azure Virtual Machines (VMs),	Azure Virtual Network (VNet),Azure Load Balancer,Azure Blob Storage,Azure Disk Storage,Azure VPN Gateway,Azure ExpressRoute,Azure Bastion,Azure Backup,Azure Site Recovery etc
+
+PaaS (Platform as a Service): PaaS (Platform as a Service) is a cloud computing model that provides a complete development and deployment environment in the cloud. With PaaS, you don't manage the infrastructure (servers, storage, networking); instead, you focus on building, testing, and deploying applications. example: Azure App Service
+Azure Functions,Azure SQL Database,Azure Cosmos DB,Azure Logic Apps,Azure Kubernetes Service (AKS),Azure DevOps Services,Azure API Management,Azure Event Grid,Azure Cognitive Services 
+
+SaaS (Software as a Service): SaaS means you use software on the internet instead of installing it on your computer.
+You don’t need to download or update anything.
+You just open a website, log in, and use the software.
+The company that made the software takes care of everything (updates, security, storage). Example:- Azure App Service,
+Azure Functions,Azure SQL Database,Azure Cosmos DB,Azure Logic Apps,Azure Kubernetes Service (AKS),Azure DevOps,Azure API Management,Azure Event Grid,Azure Cognitive Services
+
+5 how many types of cloud ?
+There are three main types of cloud deployment models:
+
+Public Cloud:
+Services are offered over the internet and are available to anyone.
+Examples include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud.
+Resources like servers and storage are shared among multiple users.
+It is cost-effective, highly scalable, but offers less control and customization.
+Private Cloud:
+Dedicated cloud infrastructure used exclusively by one organization.
+Can be hosted on-premises or by a third-party provider.
+Provides higher security, control, and customization, ideal for sensitive data.
+Usually more expensive due to dedicated resources.
+
+Hybrid Cloud:
+A combination of public and private clouds.
+Some workloads run on private cloud while others use public cloud services.
+Offers flexibility, cost optimization, and better security balance.
+Useful for disaster recovery, workload balancing, and meeting compliance needs.
+
+
+-------------------------------------------------------------------------------------------------------------
+Quiz
+
+1. Which of the following is NOT a key advantage of cloud computing?
+A) Pay-as-you-go pricing
+B) Automatic software updates
+C) Owning physical hardware
+D) Scalability based on demand
+
+2. Which cloud deployment model offers the highest control and security but is usually the most expensive?
+A) Public Cloud
+B) Hybrid Cloud
+C) Private Cloud
+D) SaaS Cloud
+
+3. In the IaaS model, what does the user primarily manage?
+A) The physical hardware
+B) The virtualization layer and networking
+C) Operating systems, applications, and data
+D) The entire cloud platform including infrastructure
+
+4. Which of these Azure services is an example of PaaS?
+A) Azure Virtual Machines
+B) Azure Blob Storage
+C) Azure App Service
+D) Azure Backup
+
+5. A company wants to keep sensitive data on-premises but use cloud services for other workloads. Which cloud model suits them best?
+A) Public Cloud
+B) Private Cloud
+C) Hybrid Cloud
+D) Community Cloud
+
+
+
+                    Happy Learning
+
+
+
